@@ -41,6 +41,22 @@
           <label for="collegeSelect">欲查詢學校：</label>
           <select id="collegeSelect"></select>
         </div>
+ 
+        <div class="form-row">
+        <label for="deptSelect">科系名稱：</label>
+        <select id="deptSelect"></select>
+        </div>
+
+        <div class="form-row">
+        <span style="font-size: 0.8rem; color: #64748b;">
+         若下拉選單尚未提供此校的科系清單，可在下方直接輸入科系名稱。
+        </span>
+        </div>
+
+       <div class="form-row">
+       <label for="deptInput">科系名稱（自填）：</label>
+       <input id="deptInput" type="text" placeholder="例如：物理學系" />
+       </div>
 
         <button id="applyBtn">套用年度與學校設定</button>
       </div>
@@ -99,6 +115,7 @@
   </div>
 
   <script src="colleges.js"></script>
+  <script src="departments.js"></script>  <!-- 新增這行 -->
   <script src="app.js"></script>
-</body>
+ </body>
 </html>
