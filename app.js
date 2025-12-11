@@ -7,6 +7,9 @@ document.addEventListener("DOMContentLoaded", () => {
   const collegeSelect = document.getElementById("collegeSelect");
   const applyBtn = document.getElementById("applyBtn");
 
+  const deptSelect = document.getElementById("deptSelect");
+  const deptInput = document.getElementById("deptInput");
+
   const yearTabs = document.querySelectorAll(".year-tab");
   const sieveFrame = document.getElementById("sieveFrame");
   const openInNewTabBtn = document.getElementById("openInNewTabBtn");
@@ -48,6 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
   if (collegeSelect.options.length > 0) {
     collegeSelect.selectedIndex = 0;
     currentCollegeCode = collegeSelect.value;
+    populateDeptSelect(currentCollegeCode); // 一開始就載入該校科系
   }
 
   /* ---------- 功能：更新左側標題 ---------- */
@@ -132,6 +136,45 @@ document.addEventListener("DOMContentLoaded", () => {
     return `https://www.cac.edu.tw/cacportal/apply_his_report/${year}/${year}_sieve_standard/report/${collegeCode}.htm`;
   }
 
+  /* ---------- 依學校代碼產生該校的科系下拉選單 ---------- */
+
+  function populateDeptSelect(collegeCode) {
+    if (!deptSelect) return;
+
+    // 先清空舊的選項
+    deptSelect.innerHTML = "";
+
+    // ✅ 這裡用 typeof 避免 departments 未宣告時直接當機
+    const deptList =
+      typeof departments !== "undefined" ? departments[collegeCode] : null;
+
+    const defaultOpt = document.createElement("option");
+
+    //（1）如果這間學校還沒建立科系清單 → 告知使用者改用手動輸入
+    if (!deptList) {
+      defaultOpt.value = "";
+      defaultOpt.textContent =
+        "（此校科系清單尚未建置，請改用下方手動輸入）";
+      deptSelect.appendChild(defaultOpt);
+      deptSelect.disabled = true;
+      return;
+    }
+
+    //（2）如果有科系清單 → 產生下拉選單
+    deptSelect.disabled = false;
+
+    defaultOpt.value = "";
+    defaultOpt.textContent = "（請選擇科系，或改用下方手動輸入）";
+    deptSelect.appendChild(defaultOpt);
+
+    deptList.forEach((d) => {
+      const opt = document.createElement("option");
+      opt.value = d.code;
+      opt.textContent = `(${d.code}) ${d.name}`;
+      deptSelect.appendChild(opt);
+    });
+  }
+
   /* ---------- 事件綁定 ---------- */
 
   // 考試年度與換算年度變動時，更新標題與 tabs
@@ -143,6 +186,8 @@ document.addEventListener("DOMContentLoaded", () => {
   // 學校變更
   collegeSelect.addEventListener("change", () => {
     currentCollegeCode = collegeSelect.value;
+    // 換學校 → 重新載入科系清單
+    populateDeptSelect(currentCollegeCode);
 
     // 如果已經有選定某個 active 年度，就重新載入 iframe
     if (
@@ -154,6 +199,15 @@ document.addEventListener("DOMContentLoaded", () => {
       sieveFrame.src = url;
     }
   });
+
+  // 選擇科系時，自動把「(代碼) 科系名稱」填到文字輸入框，學生還是可以再修改
+  if (deptSelect) {
+    deptSelect.addEventListener("change", () => {
+      const opt = deptSelect.options[deptSelect.selectedIndex];
+      if (!opt || !opt.value) return; // 選到的是「未選」那個
+      deptInput.value = opt.textContent; // 例如 "(001012) 中國文學系"
+    });
+  }
 
   // 按下「套用」按鈕：只是強制刷新一次（將來可以在這裡觸發級分換算）
   applyBtn.addEventListener("click", () => {
