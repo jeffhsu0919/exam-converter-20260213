@@ -214,35 +214,51 @@ document.addEventListener("DOMContentLoaded", () => {
   updateHeaders();
 
   const examYear = Number(examYearInput.value);
-  const y0 = Number(document.getElementById("targetYear0").value); // 先示範年度1
+  const y0 = Number(document.getElementById("targetYear0").value);
+  const y1 = Number(document.getElementById("targetYear1").value);
+  const y2 = Number(document.getElementById("targetYear2").value);
+
   const rawChinese = Number(document.getElementById("scoreChinese").value);
 
-  if (!examYear || !y0) {
-    alert("請先選擇考試年度與「年度1」");
+  if (!examYear || Number.isNaN(rawChinese)) {
+    alert("請輸入考試年度與國文級分（示範用）");
     return;
   }
-  if (Number.isNaN(rawChinese)) {
-    alert("請輸入國文級分（示範用）");
+
+  const targets = [y0, y1, y2].filter(y => !!y); // 去掉未選的
+
+  if (targets.length === 0) {
+    alert("請至少選擇一個換算年度（年度1/2/3）");
     return;
   }
 
   try {
-    const conv = await convertSubjectScore(examYear, y0, "國文", rawChinese);
-
     const tbody = document.getElementById("convertResultBody");
     tbody.innerHTML = "";
 
-    if (!conv) {
-      tbody.innerHTML = `<tr><td colspan="4">找不到國文級分 ${rawChinese} 的對應百分比（假資料表沒有這個級分）</td></tr>`;
-      return;
+    // 逐年換算：114->113、114->112、114->111
+    const results = [];
+    for (const y of targets) {
+      const conv = await convertSubjectScore(examYear, y, "國文", rawChinese);
+      results.push({ y, conv });
     }
+
+    // 顯示成一列（你也可以改成多列，我先用「一列」好對照）
+    const cols = results.map(r => {
+      if (!r.conv) return `${r.y}：無`;
+      return `${r.y}：${r.conv.convertedScore}`;
+    });
+
+   const pctText = results[0].conv
+  ? (results[0].conv.percentile * 100).toFixed(1) + "%"
+  : "-";
 
     tbody.innerHTML = `
       <tr>
         <td>國文</td>
         <td>${examYear}：${rawChinese}</td>
-        <td>${conv.toYear}：${conv.convertedScore}</td>
-        <td>百分比：${conv.percentile}</td>
+        <td>${cols[0] || "-"}</td>
+        <td>${cols[1] || "-"} / ${cols[2] || "-"}（累積人數百分比：${pctText}）</td>
       </tr>
     `;
   } catch (err) {
@@ -267,4 +283,5 @@ document.addEventListener("DOMContentLoaded", () => {
   // 第一次載入時先更新一次標題（讓表頭是乾淨的）
   updateHeaders();
 });
+
 
