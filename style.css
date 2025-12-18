@@ -103,6 +103,15 @@ body {
   margin-bottom:8px;
 }
 
+/* ✅ 確保表頭與輸入列同一套 grid，才會對齊 */
+.sieve-header,
+.sieve-row{
+  display: grid;
+  grid-template-columns: 110px minmax(220px, 1.6fr) 80px 110px 70px 40px;
+  gap: 8px;
+  align-items: center;
+}
+
 .sieve-rows{
   display:flex;
   flex-direction:column;
@@ -158,7 +167,7 @@ body {
 }
 
 /* 手機版：欄位改成兩行顯示，避免擠爆 */
-@media (max-width: 700px){
+@media (max-width: 520px){
   .sieve-header{ display:none; }
   .sieve-row{
     grid-template-columns: 1fr 1fr;
@@ -380,4 +389,5 @@ iframe {
     white-space: nowrap;
   }
 }
+
 
