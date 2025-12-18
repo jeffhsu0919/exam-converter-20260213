@@ -270,9 +270,16 @@ iframe {
   text-align: right;
 }
 
-/* 桌機版：左右排版 */
+/* ✅ 桌機：讓卡片3（門檻自填區）在左欄可黏住，避免捲上去就不見 */
 @media (min-width: 900px) {
-   .frame-wrapper { height: 520px; }
+  .sieve-self-card{
+    position: sticky;
+    top: 12px;            /* 距離視窗頂部 */
+    max-height: calc(100vh - 24px);
+    overflow: auto;       /* 內容超出時在卡片內捲 */
+  }
+
+  .frame-wrapper { height: 520px; }
 
   .page {
     flex-direction: row;
@@ -288,14 +295,5 @@ iframe {
   }
 }
 
-/* ✅ 桌機：讓卡片3（門檻自填區）在左欄可黏住，避免捲上去就不見 */
-@media (min-width: 900px) {
-  .sieve-self-card{
-    position: sticky;
-    top: 12px;            /* 距離視窗頂部 */
-    max-height: calc(100vh - 24px);
-    overflow: auto;       /* 內容超出時在卡片內捲 */
-  }
-}
 
 
