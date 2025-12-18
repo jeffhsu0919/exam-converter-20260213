@@ -94,6 +94,32 @@
       <div class="card result-card">
         <h2>級分換算與一階門檻比較（預留區）</h2>
        <div id="resultCards" class="result-cards"></div>
+      
+<!-- ✅ 卡片3：一階篩選順序與門檻自填（差距計算） -->
+<div class="sieve-self-card">
+  <h3>一階篩選條件（自行輸入門檻，系統計算差距）</h3>
+
+  <div class="sieve-header">
+    <div>年度</div>
+    <div>篩選順序</div>
+    <div>門檻</div>
+    <div>你的換算結果</div>
+    <div>差距</div>
+    <div></div>
+  </div>
+
+  <div id="sieveRows" class="sieve-rows"></div>
+
+  <div class="sieve-actions">
+    <button id="addSieveRowBtn" type="button">＋新增篩選順序（最多6）</button>
+    <button id="clearSieveBtn" type="button" class="btn-ghost">清空</button>
+  </div>
+
+  <p class="sieve-note">
+    提醒：門檻需由你自行查閱右側官方一覽表後輸入。若某些「多科組合」尚未建立統計資料，會顯示「缺組合資料」。
+  </p>
+</div>
+
         <table class="result-table">
           <thead>
             <tr>
@@ -149,6 +175,7 @@
   <script src="app.js"></script>
  </body>
 </html>
+
 
 
 
