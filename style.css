@@ -47,6 +47,11 @@ body {
   margin-top:12px;
 }
 
+/* ✅ 卡片2 + 卡片3 的併排容器 */
+.result-split{
+  display: block;
+}
+
 .subj-card{
   background:#fff;
   border:1px solid #e2e8f0;
@@ -272,6 +277,18 @@ iframe {
 
 /* ✅ 桌機：讓卡片3（門檻自填區）在左欄可黏住，避免捲上去就不見 */
 @media (min-width: 900px) {
+  .result-split{
+    display: grid;
+    grid-template-columns: 1.6fr 1fr;  /* 左大右小：卡片2 / 卡片3 */
+    gap: 12px;
+    align-items: start;
+  }
+
+  /* 卡片3黏住時，不要被外層高度限制 */
+  .result-card{
+    overflow: visible;
+  }
+  
   .sieve-self-card{
     position: sticky;
     top: 12px;            /* 距離視窗頂部 */
@@ -294,6 +311,7 @@ iframe {
     flex: 2;
   }
 }
+
 
 
 
