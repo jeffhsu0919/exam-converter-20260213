@@ -91,10 +91,8 @@ body {
 
 .sieve-header,
 .sieve-row{
-  display:grid;
-  grid-template-columns: 120px 1fr 90px 140px 90px 40px;
-  gap:8px;
-  align-items:center;
+  /* ✅ 把「篩選順序」欄拉寬，結果欄縮一點 */
+  grid-template-columns: 110px minmax(220px, 1.6fr) 80px 110px 70px 40px;
 }
 
 .sieve-header{
@@ -109,6 +107,14 @@ body {
   display:flex;
   flex-direction:column;
   gap:8px;
+}
+
+/* ✅ 篩選順序下拉：避免字被硬切 */
+.sieve-row select{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-size: 0.92rem; /* 稍微小一點 */
 }
 
 .sieve-row select,
@@ -291,6 +297,11 @@ iframe {
     overflow: visible;
   }
 
+/* ✅ 考試年度欄位：最小寬度 */
+#examYear{
+  min-width: 100px;
+}
+  
   .sieve-self-card{
     position: sticky;
     top: 12px;
@@ -312,13 +323,25 @@ iframe {
 
   /* 4) ✅ 左側黃色輸入區：改成橫向多欄（讓下方結果區往上移） */
   .input-card{
-    display: grid;
-    grid-template-columns: 160px 140px 140px 140px 140px 140px 140px;
-    align-items: center;
-    column-gap: 10px;
-    row-gap: 10px;
-  }
+  display: grid;
+  /* ✅ 第一欄留給「考試年度」等文字 + 欄位，其他欄位彈性分配 */
+  grid-template-columns: minmax(240px, 1.6fr) repeat(6, minmax(110px, 1fr));
+  align-items: center;
+  column-gap: 10px;
+  row-gap: 10px;
+}
 
+/* ✅ 長句提示那一列：跨整排，避免和「年度1」重疊 */
+.input-card .form-row:has(.targetYear){
+  grid-column: 1 / -1;
+}
+
+/* 讓這列字稍微小一點、行高舒服 */
+.input-card .form-row:has(.targetYear) span{
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+  
   /* 標題、分隔線、按鈕跨整排 */
   .input-card h2,
   .input-card hr,
@@ -357,3 +380,4 @@ iframe {
     white-space: nowrap;
   }
 }
+
