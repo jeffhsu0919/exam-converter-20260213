@@ -256,7 +256,7 @@ button:hover:not(:disabled) {
   border: 1px solid #cbd5e1;
   border-radius: 8px;
   overflow: hidden;
-  height: 260px; /* 可以之後再調整 */
+  height: 320px; /* 可以之後再調整 */
 }
 
 iframe {
@@ -272,6 +272,8 @@ iframe {
 
 /* 桌機版：左右排版 */
 @media (min-width: 900px) {
+   .frame-wrapper { height: 520px; }
+
   .page {
     flex-direction: row;
     align-items: flex-start;
@@ -283,6 +285,16 @@ iframe {
 
   .bottom-panel {
     flex: 2;
+  }
+}
+
+/* ✅ 桌機：讓卡片3（門檻自填區）在左欄可黏住，避免捲上去就不見 */
+@media (min-width: 900px) {
+  .sieve-self-card{
+    position: sticky;
+    top: 12px;            /* 距離視窗頂部 */
+    max-height: calc(100vh - 24px);
+    overflow: auto;       /* 內容超出時在卡片內捲 */
   }
 }
 
