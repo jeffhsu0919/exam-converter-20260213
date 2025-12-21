@@ -1,1 +1,9701 @@
-
+{
+  "year": 114,
+  "subjects": {
+    "國文": [
+      {
+        "score": 15,
+        "cum_pct": "0.0232"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.0776"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.1782"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.3189"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.4754"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.6292"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.7538"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.8429"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9039"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9435"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9678"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9828"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9933"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數學A": [
+      {
+        "score": 15,
+        "cum_pct": "0.0135"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.0299"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.0564"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.0937"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.143"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.202"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.2747"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.374"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.4699"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.5777"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.6978"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.8203"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.926"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9844"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數學B": [
+      {
+        "score": 15,
+        "cum_pct": "0.0143"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.0403"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.0776"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.1276"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.1959"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.2625"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.3302"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.3998"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.4837"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.5627"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.6498"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.7787"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.8942"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.975"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9991"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "社會": [
+      {
+        "score": 15,
+        "cum_pct": "0.0188"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.0612"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.1361"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.2503"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.3972"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.5375"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.6802"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.8002"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.8804"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9403"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9761"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9942"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "自然": [
+      {
+        "score": 15,
+        "cum_pct": "0.0346"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.103"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.1929"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.293"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.3967"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.4969"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.5907"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.6838"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.7698"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.853"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9248"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9765"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9974"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英文": [
+      {
+        "score": 15,
+        "cum_pct": "0.0329"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.0885"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.1571"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.2315"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.3046"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.3755"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.4459"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.5139"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.5834"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.6583"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.7458"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.8478"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.956"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9979"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數A": [
+      {
+        "score": 30,
+        "cum_pct": "0.0029"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0087"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0188"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0335"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0544"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.0805"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1134"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.1524"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.2005"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.2538"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.3157"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.3823"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.455"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.5302"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.6077"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.6842"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.7582"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.8231"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8775"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9183"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.947"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9668"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.979"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9872"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9924"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9957"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9977"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9991"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數B": [
+      {
+        "score": 30,
+        "cum_pct": "0.0025"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0087"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0198"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.037"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0609"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.0913"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1282"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.1691"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.2169"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.2679"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.3215"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.3762"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.432"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.4905"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.5516"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.6144"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.6795"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.7431"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8017"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.853"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.8957"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9293"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9543"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9724"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9841"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9924"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9968"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國社": [
+      {
+        "score": 30,
+        "cum_pct": "0.0039"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0142"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0332"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0628"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.1035"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.1575"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.2231"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.2964"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.3753"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.4569"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.5357"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.6097"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.6787"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.7397"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.7903"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8334"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.8692"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9004"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9262"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9465"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9624"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.975"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9841"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9909"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.995"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9972"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9981"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9991"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國自": [
+      {
+        "score": 30,
+        "cum_pct": "0.0078"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0258"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0543"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0927"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.1397"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.1937"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.2542"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.3189"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.3865"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.4544"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.5194"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.586"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.6491"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.7099"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.7653"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8129"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.8543"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.8895"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9176"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9397"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.957"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9702"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9807"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9879"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9935"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9968"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9994"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英": [
+      {
+        "score": 30,
+        "cum_pct": "0.0077"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0235"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.049"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0822"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.122"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.1665"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.215"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.2659"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.3167"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.3692"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.4209"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.474"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.5258"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.5793"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.633"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.6873"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.743"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.7947"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8414"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.883"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9183"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9461"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9661"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9799"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9897"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.996"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9987"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數A數B": [
+      {
+        "score": 30,
+        "cum_pct": "0.0035"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0083"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0152"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0257"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0393"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.0568"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.0779"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.1028"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.1317"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.1648"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.203"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.2446"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.2892"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.3341"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.3811"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.4303"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.481"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.5337"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.5886"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.646"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.7014"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.7588"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.8194"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.8765"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9264"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9626"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9847"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9948"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數A社": [
+      {
+        "score": 30,
+        "cum_pct": "0.001"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0037"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0087"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0169"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0291"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.0469"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.0694"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.0988"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.1373"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.1846"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.2391"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.3016"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.3697"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.4444"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.5254"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.6069"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.6862"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.7603"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8267"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.8802"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9208"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9479"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9684"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9797"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9871"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9917"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9949"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9978"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數A自": [
+      {
+        "score": 30,
+        "cum_pct": "0.0083"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0196"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0353"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0555"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0814"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.1133"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.148"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.1867"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.2289"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.2739"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.3231"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.3751"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.4259"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.4793"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.5339"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.5886"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.645"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.6994"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.7533"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.8051"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.8546"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.8985"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9381"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9666"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9846"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9937"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9972"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9986"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數B社": [
+      {
+        "score": 30,
+        "cum_pct": "0.0019"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0063"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0146"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0277"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.046"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.0708"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1036"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.1417"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.1859"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.2355"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.2879"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.3433"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.4029"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.4634"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.5273"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.5928"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.6594"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.7249"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.7889"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.845"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.8935"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9316"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.96"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9796"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9909"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9957"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9988"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數B自": [
+      {
+        "score": 30,
+        "cum_pct": "0.007"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0189"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0367"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0612"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0889"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.1236"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1617"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.2045"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.2502"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.2957"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.3418"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.3869"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.433"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.479"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.5244"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.5705"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.6202"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.6681"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.7173"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.766"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.8147"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.8612"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9064"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9444"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9716"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9871"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.994"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9975"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "社自": [
+      {
+        "score": 30,
+        "cum_pct": "0.0033"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0115"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.026"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0485"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0793"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.1197"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1677"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.2216"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.2815"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.346"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.4126"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.4818"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.548"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.6134"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.6772"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.7381"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.7964"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.8449"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8843"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.917"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9433"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9636"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9793"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.988"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9925"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9958"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.998"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數A": [
+      {
+        "score": 30,
+        "cum_pct": "0.0052"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0136"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0255"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0419"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0625"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.0879"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1175"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.1517"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.1898"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.2288"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.2714"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.3179"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.3665"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.4156"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.4653"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.5179"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.5714"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.6239"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.6758"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.729"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.7803"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.832"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.8813"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9247"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9605"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9832"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9944"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9986"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數B": [
+      {
+        "score": 30,
+        "cum_pct": "0.0039"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0111"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0233"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0391"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0595"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.0838"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1121"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.1419"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.1746"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.2092"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.2456"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.2843"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.3244"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.3649"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.4078"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.4536"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.4998"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.5465"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.5962"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.6456"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.6965"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.7495"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.8063"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.8672"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9251"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9673"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9894"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9973"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英社": [
+      {
+        "score": 30,
+        "cum_pct": "0.0043"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0136"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0299"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.0527"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.0825"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.1196"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.1626"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.2084"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.257"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.3066"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.3585"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.4111"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.4647"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.5191"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.5768"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.6362"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.6973"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.7564"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8139"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.8642"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9059"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9395"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.965"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9815"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9893"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9929"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9956"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9984"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英自": [
+      {
+        "score": 30,
+        "cum_pct": "0.013"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.0363"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.0672"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.1034"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.1455"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.188"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.232"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.2771"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.3222"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.3679"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.4142"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.4592"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.5033"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.5486"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.5949"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.641"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.6877"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.7354"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.7809"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.8236"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.8657"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9034"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9386"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9673"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9851"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9927"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9958"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9986"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數A數B": [
+      {
+        "score": 45,
+        "cum_pct": "0.0009"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.003"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0062"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0108"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0178"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0266"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.038"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0517"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0678"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.0862"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1093"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1344"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1622"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.193"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2263"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.2624"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.2997"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3409"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.3823"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.425"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.4691"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.5132"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.5575"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.6027"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.6497"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.6956"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7412"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7857"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8273"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8644"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8973"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9245"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9459"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9631"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9746"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9834"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.989"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9928"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9953"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9969"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9979"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9988"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9994"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數A社": [
+      {
+        "score": 45,
+        "cum_pct": "0.0005"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0017"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0046"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0087"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0155"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0245"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0375"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0531"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0728"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.0962"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1246"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1572"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1945"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2373"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2836"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3339"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3873"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.4429"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.5013"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5604"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.6193"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.6754"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.7277"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.7775"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.821"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.859"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8901"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9157"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.935"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9509"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9621"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9714"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9786"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9845"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9889"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9918"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9943"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9958"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9968"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數A自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0024"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0071"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0149"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0255"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0398"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0565"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0769"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.1003"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.1268"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1571"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1885"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.2216"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.2565"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2959"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.3364"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3777"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.419"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.4636"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.5071"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5505"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.5962"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.6397"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.6833"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.726"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.767"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8061"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8427"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.875"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9013"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.924"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9426"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9568"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9687"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9769"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9838"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9885"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9921"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.995"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9968"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9979"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9988"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數B社": [
+      {
+        "score": 45,
+        "cum_pct": "0.0007"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0027"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0063"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0124"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0207"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0322"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0474"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0664"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0897"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1164"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1458"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.179"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.2157"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2557"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2977"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3418"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3868"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.433"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4817"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5297"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.5781"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.6255"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.6722"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.7166"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7579"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.7941"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8271"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8567"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8825"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9042"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9233"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9394"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9538"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9664"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9762"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9846"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9903"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.994"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9961"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9975"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數B自": [
+      {
+        "score": 45,
+        "cum_pct": "0.002"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0064"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0144"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0243"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0383"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0568"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0775"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.101"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.128"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1576"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1894"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.2247"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.2602"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2976"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.3359"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3756"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.4162"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.4558"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4953"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5358"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.5759"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.6153"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.6552"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.6954"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7328"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.7699"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.804"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8352"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8644"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8889"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9106"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9296"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.946"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9602"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9716"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9808"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9876"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9923"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9955"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9971"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9981"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9991"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國社自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0013"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0052"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0122"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0229"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0378"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.058"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0818"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.1105"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.1413"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1781"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.2175"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.2596"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.3059"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.355"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.4035"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.4546"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.5047"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.5553"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.6055"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.6551"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7027"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.7462"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.7862"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8206"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8501"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8756"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8974"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9161"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9314"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9443"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9558"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9659"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9743"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9813"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9869"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9909"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9935"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9952"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9965"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9991"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英數A": [
+      {
+        "score": 45,
+        "cum_pct": "0.0018"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0053"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0116"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.02"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0321"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0461"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0634"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0848"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.1083"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1352"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1636"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1947"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.228"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2621"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2991"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3384"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3783"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.4197"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4614"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5034"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.5444"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.5875"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.6296"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.6725"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7129"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.7527"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7912"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8291"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8633"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8931"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9194"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9401"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.957"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9702"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9798"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9869"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9912"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9945"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9965"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9977"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9984"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英數B": [
+      {
+        "score": 45,
+        "cum_pct": "0.0014"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0045"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0102"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0181"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0285"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0415"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0575"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0759"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0964"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1188"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1441"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1699"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1982"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2275"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2588"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.292"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3264"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3619"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.3981"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.4351"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.4727"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.51"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.5493"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.5864"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.6266"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.6665"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7074"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7459"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.7836"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8196"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8528"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.884"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9117"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9356"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9555"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9712"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9819"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9898"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9947"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9974"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英社": [
+      {
+        "score": 45,
+        "cum_pct": "0.0019"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0059"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0135"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0252"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0402"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0602"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.083"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.1095"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.138"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.171"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.2052"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.2417"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.2793"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.3185"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.3588"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3998"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.4407"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.485"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.5288"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5746"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.6183"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.6625"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.7049"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.7453"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7834"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8172"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8489"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8761"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8998"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9208"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9384"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9536"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9661"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9758"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9834"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9897"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9937"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9961"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9974"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9982"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.999"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 2,
+        "cum_pct": "1"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0046"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0137"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0288"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0479"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0707"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0984"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.128"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.1582"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.1911"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.2253"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.2622"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.2986"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.334"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.3715"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.4103"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.4469"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.4839"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.5214"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.5594"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5978"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.6351"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.6726"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.709"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.7443"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7792"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8105"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.84"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8668"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8907"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9114"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9303"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9458"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9595"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9706"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9794"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9865"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9916"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.995"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9969"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9979"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9987"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數A數B社": [
+      {
+        "score": 45,
+        "cum_pct": "0.0006"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0019"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0039"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0074"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0121"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0185"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0282"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0386"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0516"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.0686"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.0889"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1107"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1365"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.1654"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.198"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.232"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.2684"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3065"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.3483"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.3894"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.4327"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.4762"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.5223"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.5667"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.6129"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.6601"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7061"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7513"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.7942"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8354"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8713"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9021"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9286"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9485"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9632"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9741"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9816"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9868"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.99"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9924"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9946"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9965"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9986"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數A數B自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0025"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0066"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0117"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0188"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0281"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0395"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0526"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0698"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0869"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1073"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1295"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1531"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1784"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2061"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2379"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.2694"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3017"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3358"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.3703"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.405"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.4407"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.4775"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.5142"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.5503"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.5872"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.6238"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.6604"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.6961"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.7328"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.7686"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8029"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.8387"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.872"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9035"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9326"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9559"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9744"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9853"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9912"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.995"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9969"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.998"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.999"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數A社自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0009"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0031"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.007"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0133"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0215"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0331"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0467"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0628"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0822"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1039"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1283"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1559"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1861"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2193"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.255"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.2909"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3302"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3727"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4167"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.4627"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.5098"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.5582"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.6061"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.6544"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7024"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.7488"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7942"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8343"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8695"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8998"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9249"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9452"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9606"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9726"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9817"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9873"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9913"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9945"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9962"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9978"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9987"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數B社自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0015"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0042"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0092"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0163"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0264"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0396"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0554"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0762"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.099"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.126"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1553"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1873"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.2216"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2584"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2949"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3336"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3712"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.4105"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4498"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.4894"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.53"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.5701"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.6105"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.6499"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.6892"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.7264"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7638"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7986"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8318"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8607"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8869"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9114"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9328"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9528"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.968"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9792"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9858"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9905"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9933"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9955"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9988"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數A數B": [
+      {
+        "score": 45,
+        "cum_pct": "0.0015"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0045"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0081"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0132"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0199"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0291"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0407"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0532"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.068"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.0843"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1036"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1239"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1477"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.1716"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.1979"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.2263"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.2552"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.2872"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.32"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.3541"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.3894"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.4252"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.4616"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.4993"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.5376"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.5751"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.6132"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.6508"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.6876"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.7256"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.7622"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.7993"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.8341"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8689"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9013"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9306"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9551"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9749"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9868"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9935"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9968"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9994"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數A社": [
+      {
+        "score": 45,
+        "cum_pct": "0.0007"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0021"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0056"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0105"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.017"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0269"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0389"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.054"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.0713"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.0927"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1171"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1443"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1729"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2049"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2381"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.2745"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3131"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3535"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.3949"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.4382"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.4823"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.5276"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.5731"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.6189"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.6639"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.709"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7531"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7948"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8326"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8685"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9004"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9271"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9481"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9644"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9764"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9848"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9899"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9933"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9953"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9968"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9979"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9988"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數A自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0043"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.011"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0207"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0321"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0472"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0649"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0845"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.1064"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.1312"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1569"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.185"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.2127"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.241"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2714"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.303"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3356"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3672"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3997"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4337"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.4677"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.5029"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.539"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.5749"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.6095"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.6447"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.6804"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7165"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7514"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.7859"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8195"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8503"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.8805"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9083"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9335"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9548"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9714"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9837"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9908"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9946"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9965"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數B社": [
+      {
+        "score": 45,
+        "cum_pct": "0.001"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0031"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0067"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.013"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0209"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0312"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0443"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0609"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.08"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1003"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1238"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1493"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.1759"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2061"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.236"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.2681"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3015"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3371"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.372"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.4079"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.4449"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.4833"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.521"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.5603"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.5997"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.6402"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.6799"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7205"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.7605"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.7999"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8375"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.8726"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9045"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.933"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9555"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9717"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9834"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9896"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9925"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9944"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.996"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9992"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數B自": [
+      {
+        "score": 45,
+        "cum_pct": "0.0034"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0091"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0174"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.029"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0421"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0582"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0777"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.0984"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.1208"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1446"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1702"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.1972"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.2241"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.253"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.2827"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3139"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.3466"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.3802"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4135"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.447"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.4818"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.5161"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.5491"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.5831"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.6165"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.6497"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.6827"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.7145"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.747"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.7782"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.8096"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.8395"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.8693"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.8974"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9259"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.951"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9698"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9836"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9915"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9945"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9966"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9982"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9994"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英社自": [
+      {
+        "score": 45,
+        "cum_pct": "0.002"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.0063"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.0136"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.0253"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.0398"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.0581"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.0801"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.1049"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.1324"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.1611"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.1909"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.2216"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.2558"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.2908"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.3254"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.3629"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.4011"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.4413"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.4815"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.5238"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.5658"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.606"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.6469"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.687"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7246"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.7615"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.7987"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8325"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8622"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.8882"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9102"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9321"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9503"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9654"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9781"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9861"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9906"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9935"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9956"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9969"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9981"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9988"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 2,
+        "cum_pct": "1"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數A數B社": [
+      {
+        "score": 60,
+        "cum_pct": "0.0003"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0009"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0023"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0042"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0073"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0112"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0161"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0227"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.031"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0407"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0528"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.067"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.0831"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.101"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1216"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1455"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.1698"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.1973"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.225"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2547"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.2875"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.322"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3583"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3948"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4299"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4686"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.5067"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.5442"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.5822"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.6199"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6585"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.696"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.7323"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7673"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7997"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.8309"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8586"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8831"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.9047"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.9226"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9386"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9519"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9616"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9696"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9762"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9816"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9857"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.989"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9915"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9935"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9951"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9962"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9971"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9981"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9986"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.999"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數A數B自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0009"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0026"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0056"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0094"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0151"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0217"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0294"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0393"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.051"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0635"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0783"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0943"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1125"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1313"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1524"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1736"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.1976"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2237"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2508"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2789"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3081"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3374"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.369"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3998"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4313"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4634"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4953"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.528"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.5595"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5914"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6225"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.6543"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6843"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7163"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7476"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7772"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8059"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8336"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.861"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.885"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.906"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9245"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9413"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9541"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9649"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9738"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9804"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9855"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9888"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9921"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9943"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9961"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9972"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9981"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9986"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.999"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數A社自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0004"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0016"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.004"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0074"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0127"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0199"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0287"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0395"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0519"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0663"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0822"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.1"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1206"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1417"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1645"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1906"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.2179"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2467"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2776"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.3099"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3431"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3792"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.4169"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.4552"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4937"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.5327"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.5714"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.6115"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.6491"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.6877"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.7257"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.7619"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.7954"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.8255"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.8535"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.8778"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8994"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.9172"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.9325"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.9452"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9556"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9639"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.971"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9768"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9819"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.986"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9888"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9912"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9933"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9948"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9961"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9971"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9979"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國數B社自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0005"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0021"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0049"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0091"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0144"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0219"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0309"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0433"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.056"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0725"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0915"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.1123"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1339"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1582"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1833"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.2104"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.24"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2715"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.3035"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.3369"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.37"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.4036"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.4372"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.4705"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.5034"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.5368"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.5709"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.6041"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.6364"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.6683"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6994"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.7303"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.7602"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7881"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.8147"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.8395"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8606"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8803"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8984"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.9142"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9279"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9401"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9513"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9612"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.969"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9758"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9824"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9866"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9903"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9929"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9945"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9957"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9967"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9974"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9981"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9987"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英數A數B": [
+      {
+        "score": 60,
+        "cum_pct": "0.0006"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0019"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0043"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0073"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0114"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0167"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0234"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0318"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0414"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0529"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.065"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0786"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.0946"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1127"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1311"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1514"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.1728"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.195"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2196"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2459"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.2738"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3017"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3307"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3609"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.3922"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4237"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4559"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.4874"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.5205"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5534"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.5857"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.6179"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6497"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.6825"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7135"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7445"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.7756"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8052"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8339"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8606"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.885"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9066"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9258"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.943"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9572"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9682"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9775"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9843"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9893"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9926"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9948"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9965"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9974"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.998"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9992"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英數A社": [
+      {
+        "score": 60,
+        "cum_pct": "0.0004"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0012"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0033"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0064"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0106"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0164"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0246"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0345"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0456"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0597"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0761"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0932"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1137"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1349"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1585"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1835"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.209"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2381"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2698"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.3015"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3347"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3689"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.4049"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.4403"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4764"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.5135"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.5506"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.5891"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.6254"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.6621"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6973"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.7327"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.7653"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7971"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.8278"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.8547"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8806"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.9022"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.9205"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.9361"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9491"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9602"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9689"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9758"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9817"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9861"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9896"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9921"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.994"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9954"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9964"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9973"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9978"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9987"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9992"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英數A自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0017"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0047"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.01"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0172"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0266"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0378"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0509"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0656"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0822"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.101"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.1213"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.1428"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1652"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1882"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.2121"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.236"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.262"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2897"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.3171"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.3456"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3737"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.4015"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.4319"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.4621"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4919"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.5212"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.5515"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.5824"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.6133"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.6437"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6733"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.7029"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.7325"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7619"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7902"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.8171"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8423"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8668"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8883"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.908"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9256"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9401"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9531"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9636"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9724"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9793"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9846"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9885"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9915"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.994"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9959"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.997"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.998"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英數B社": [
+      {
+        "score": 60,
+        "cum_pct": "0.0005"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0017"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0038"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0073"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0123"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0185"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0266"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0363"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0472"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0618"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0771"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0938"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.112"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1318"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.153"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1765"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.2"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2264"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2532"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2816"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3097"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3391"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3696"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3994"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4307"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4619"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4938"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.5258"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.5581"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5907"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6228"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.656"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6893"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7211"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7529"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7823"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8111"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.837"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8605"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8828"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9028"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9203"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9359"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9498"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9611"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9707"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9784"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9851"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9898"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9934"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9956"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9969"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9977"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9984"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9996"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英數B自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0015"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0039"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0088"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0152"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0232"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0327"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0446"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0582"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0729"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.09"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.1073"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.1262"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1469"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1686"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1904"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.2134"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.238"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2647"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2931"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.321"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3498"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3785"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.4057"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.4359"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4656"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4957"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.5245"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.5535"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.5816"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.61"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6387"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.6672"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6944"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7228"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7502"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7772"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8021"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8255"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8476"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8686"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.888"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9059"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9222"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9369"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9499"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9624"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9719"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9801"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9866"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9912"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9943"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9961"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9971"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9978"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "國英社自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0009"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0035"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0076"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0143"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0235"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0349"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.049"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0647"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0833"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.1027"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.1237"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.1463"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1696"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1938"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.2206"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.2483"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.2766"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.3076"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.338"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.37"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.4021"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.4359"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.469"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.5021"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.5368"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.5704"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.604"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.6378"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.6697"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.6998"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.7306"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.7595"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.7885"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.8146"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.8378"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.8595"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8785"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8968"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.9117"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.9259"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9382"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9488"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.959"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9677"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9752"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9818"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9865"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9903"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9927"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9947"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9959"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9968"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9977"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9986"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.999"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 2,
+        "cum_pct": "1"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "數A數B社自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0005"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0018"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0035"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0065"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0106"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0152"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0215"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0296"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0387"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0493"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0612"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0759"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.0917"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1091"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1274"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1481"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.1705"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.1953"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2199"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2459"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.2742"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3024"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3316"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3614"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.3917"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4217"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4524"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.4841"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.515"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5465"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.5779"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.6089"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6409"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.6741"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7071"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7396"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.7716"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.802"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8318"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8592"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8855"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9076"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9271"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9438"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9565"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9683"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9768"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9833"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9876"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9907"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9931"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9948"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9963"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9973"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9989"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9994"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數A數B社": [
+      {
+        "score": 60,
+        "cum_pct": "0.0004"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0013"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0027"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0051"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.008"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.012"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0172"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0237"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0317"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0414"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0519"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0648"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.08"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.0961"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1137"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1328"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.1529"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.1756"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.1989"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2223"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.2489"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.2767"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3053"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3334"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.3642"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.3948"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4264"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.4588"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.4904"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5215"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.5536"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.5869"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6193"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.6518"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.6844"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7168"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.749"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.7801"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8107"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8395"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8671"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8916"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9133"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9336"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9493"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9628"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9731"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9811"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9864"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9903"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9925"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9942"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9955"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9967"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9976"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9983"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.999"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數A數B自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0013"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0041"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0074"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0119"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0176"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0242"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0321"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0425"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0529"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0649"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.079"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0933"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1097"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1258"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1427"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.161"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.1821"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2035"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2264"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2497"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.2742"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.2988"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3248"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3509"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.3769"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4035"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4313"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.4587"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.4878"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5147"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.5422"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.5704"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.5975"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.6253"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.6533"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.6815"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.7073"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.7351"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.7616"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.7889"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8154"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8408"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.8652"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.8887"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9109"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9312"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9497"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9644"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9769"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9851"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9905"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9938"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9959"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9971"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9979"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9987"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9993"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數A社自": [
+      {
+        "score": 60,
+        "cum_pct": "0.0006"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.002"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0049"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0092"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0143"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0218"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0314"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.0422"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0541"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0667"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.0814"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.0992"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1173"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1367"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1568"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.179"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.2009"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2237"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2485"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.2751"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3017"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3304"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3588"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3884"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4207"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4521"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4832"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.5167"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.5488"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5805"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.6134"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.6473"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6802"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.7127"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7445"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7753"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.8058"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.8338"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8617"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8843"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.9063"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.9247"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9409"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.9553"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9666"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9754"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9826"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9875"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9908"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.9931"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9949"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9962"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9974"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9982"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9988"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9991"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9995"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9998"
+      },
+      {
+        "score": 2,
+        "cum_pct": "0.9999"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ],
+    "英數B社自": [
+      {
+        "score": 60,
+        "cum_pct": "0.001"
+      },
+      {
+        "score": 59,
+        "cum_pct": "0.0027"
+      },
+      {
+        "score": 58,
+        "cum_pct": "0.0054"
+      },
+      {
+        "score": 57,
+        "cum_pct": "0.0099"
+      },
+      {
+        "score": 56,
+        "cum_pct": "0.0162"
+      },
+      {
+        "score": 55,
+        "cum_pct": "0.0233"
+      },
+      {
+        "score": 54,
+        "cum_pct": "0.0324"
+      },
+      {
+        "score": 53,
+        "cum_pct": "0.043"
+      },
+      {
+        "score": 52,
+        "cum_pct": "0.0554"
+      },
+      {
+        "score": 51,
+        "cum_pct": "0.0705"
+      },
+      {
+        "score": 50,
+        "cum_pct": "0.087"
+      },
+      {
+        "score": 49,
+        "cum_pct": "0.1053"
+      },
+      {
+        "score": 48,
+        "cum_pct": "0.1243"
+      },
+      {
+        "score": 47,
+        "cum_pct": "0.1445"
+      },
+      {
+        "score": 46,
+        "cum_pct": "0.1652"
+      },
+      {
+        "score": 45,
+        "cum_pct": "0.1874"
+      },
+      {
+        "score": 44,
+        "cum_pct": "0.2101"
+      },
+      {
+        "score": 43,
+        "cum_pct": "0.2352"
+      },
+      {
+        "score": 42,
+        "cum_pct": "0.2609"
+      },
+      {
+        "score": 41,
+        "cum_pct": "0.289"
+      },
+      {
+        "score": 40,
+        "cum_pct": "0.3171"
+      },
+      {
+        "score": 39,
+        "cum_pct": "0.3442"
+      },
+      {
+        "score": 38,
+        "cum_pct": "0.3708"
+      },
+      {
+        "score": 37,
+        "cum_pct": "0.3992"
+      },
+      {
+        "score": 36,
+        "cum_pct": "0.4272"
+      },
+      {
+        "score": 35,
+        "cum_pct": "0.4566"
+      },
+      {
+        "score": 34,
+        "cum_pct": "0.4842"
+      },
+      {
+        "score": 33,
+        "cum_pct": "0.5132"
+      },
+      {
+        "score": 32,
+        "cum_pct": "0.5415"
+      },
+      {
+        "score": 31,
+        "cum_pct": "0.5691"
+      },
+      {
+        "score": 30,
+        "cum_pct": "0.5984"
+      },
+      {
+        "score": 29,
+        "cum_pct": "0.6276"
+      },
+      {
+        "score": 28,
+        "cum_pct": "0.6564"
+      },
+      {
+        "score": 27,
+        "cum_pct": "0.6857"
+      },
+      {
+        "score": 26,
+        "cum_pct": "0.7147"
+      },
+      {
+        "score": 25,
+        "cum_pct": "0.7446"
+      },
+      {
+        "score": 24,
+        "cum_pct": "0.7719"
+      },
+      {
+        "score": 23,
+        "cum_pct": "0.7992"
+      },
+      {
+        "score": 22,
+        "cum_pct": "0.8252"
+      },
+      {
+        "score": 21,
+        "cum_pct": "0.8496"
+      },
+      {
+        "score": 20,
+        "cum_pct": "0.8711"
+      },
+      {
+        "score": 19,
+        "cum_pct": "0.8914"
+      },
+      {
+        "score": 18,
+        "cum_pct": "0.9105"
+      },
+      {
+        "score": 17,
+        "cum_pct": "0.928"
+      },
+      {
+        "score": 16,
+        "cum_pct": "0.9438"
+      },
+      {
+        "score": 15,
+        "cum_pct": "0.9584"
+      },
+      {
+        "score": 14,
+        "cum_pct": "0.9701"
+      },
+      {
+        "score": 13,
+        "cum_pct": "0.9796"
+      },
+      {
+        "score": 12,
+        "cum_pct": "0.9859"
+      },
+      {
+        "score": 11,
+        "cum_pct": "0.99"
+      },
+      {
+        "score": 10,
+        "cum_pct": "0.9926"
+      },
+      {
+        "score": 9,
+        "cum_pct": "0.9943"
+      },
+      {
+        "score": 8,
+        "cum_pct": "0.9956"
+      },
+      {
+        "score": 7,
+        "cum_pct": "0.9969"
+      },
+      {
+        "score": 6,
+        "cum_pct": "0.9977"
+      },
+      {
+        "score": 5,
+        "cum_pct": "0.9985"
+      },
+      {
+        "score": 4,
+        "cum_pct": "0.9991"
+      },
+      {
+        "score": 3,
+        "cum_pct": "0.9997"
+      },
+      {
+        "score": 2,
+        "cum_pct": "1"
+      },
+      {
+        "score": 1,
+        "cum_pct": "1"
+      },
+      {
+        "score": 0,
+        "cum_pct": "1"
+      }
+    ]
+  }
+}
