@@ -479,6 +479,28 @@ iframe {
   font-size: 0.95rem;
   color: #334155;
 }
+/* =========================
+   一階門檻 input 修正（避免數字被截斷）
+========================= */
+.threshold-input{
+  width: 72px;          /* 原本太小，明確給寬度 */
+  min-width: 72px;
+  font-size: 1rem;      /* 稍微縮一點，避免擠 */
+  padding: 4px 6px;
+  box-sizing: border-box;
+  text-align: center;   /* 數字置中更好讀 */
+}
+
+/* 避免 number input 的上下箭頭擠壓空間（Chrome / Edge） */
+.threshold-input::-webkit-outer-spin-button,
+.threshold-input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.threshold-input {
+  -moz-appearance: textfield; /* Firefox */
+}
+
 
 
 
