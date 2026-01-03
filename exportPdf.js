@@ -2,7 +2,7 @@
   function getCollegeDeptText() {
     const collegeSel = document.getElementById("collegeSelect");
     const deptSel = document.getElementById("deptSelect");
-    const deptInput = document.getElementById("deptInput");
+    const deptInput = document.getElementById("deptNameInput");
 
     const collegeText =
       (collegeSel && collegeSel.selectedOptions && collegeSel.selectedOptions[0])
@@ -15,9 +15,15 @@
         ? deptSel.selectedOptions[0].text.trim()
         : "";
 
-    const deptTextFromInput = deptInput ? deptInput.value.trim() : "";
+   const deptTextFromSelectRaw = deptTextFromSelect;
 
-    const deptText = deptTextFromSelect || deptTextFromInput || "";
+// ✅ 若選單停在「請選擇科系」或空字樣，就視為無效，改用自填
+const isPlaceholder =
+  !deptTextFromSelectRaw ||
+  /請選擇/.test(deptTextFromSelectRaw) ||
+  /或改用/.test(deptTextFromSelectRaw);
+
+const deptText = (!isPlaceholder ? deptTextFromSelectRaw : "") || deptTextFromInput || "";
 
     return { collegeText, deptText };
   }
