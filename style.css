@@ -129,9 +129,12 @@ body {
 .sieve-row select,
 .sieve-row input{
   width:100%;
-  padding: 0.3rem 0.4rem;
+  height: 34px;              /* ✅ 固定高度，避免字被切 */
+  line-height: 34px;         /* ✅ 垂直置中，根治下緣裁切 */
+  padding: 0 0.45rem;        /* ✅ 取消上下 padding，避免壓縮字 */
   border-radius: 6px;
   border: 1px solid #cbd5e1;
+  box-sizing: border-box;
 }
 
 .sieve-my-score{
@@ -482,13 +485,12 @@ iframe {
 /* =========================
    一階門檻 input 修正（避免數字被截斷）
 ========================= */
-.threshold-input{
-  width: 72px;          /* 原本太小，明確給寬度 */
-  min-width: 72px;
-  font-size: 1rem;      /* 稍微縮一點，避免擠 */
-  padding: 4px 6px;
-  box-sizing: border-box;
-  text-align: center;   /* 數字置中更好讀 */
+/* ✅ 更精準：只管「一階篩選」區塊的門檻欄 */
+.sieve-row input.threshold-input{
+  width: 84px;        /* ✅ 兩位數/三位數都更保險 */
+  min-width: 84px;
+  text-align: center;
+  font-weight: 700;
 }
 
 /* 避免 number input 的上下箭頭擠壓空間（Chrome / Edge） */
@@ -500,6 +502,7 @@ iframe {
 .threshold-input {
   -moz-appearance: textfield; /* Firefox */
 }
+
 
 
 
