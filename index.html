@@ -97,19 +97,20 @@
         <button id="applyBtn">套用年度與學校設定</button>
       </div>
 
-      <!-- 綠色結果區：目前只做標題動態更新，換算邏輯之後再加 -->
-      <div class="result-header">
-  <h2>級分換算與一階門檻比較（預留區）</h2>
-  <button id="exportPdfBtn" type="button">匯出 PDF</button>
-</div>
-
-<!-- ✅ 桌機用：卡片2 + 卡片3 併排 -->
-<div class="result-split">
-  <div>
-    <div id="resultCards" class="result-cards"></div>
+      <!-- 綠色結果區（PDF 也會輸出這塊） -->
+<div class="card result-card" id="pdfArea">
+  <div class="result-header">
+    <h2>級分換算與一階門檻比較（預留區）</h2>
+    <button id="exportPdfBtn" type="button">匯出 PDF</button>
   </div>
 
-  <div>
+  <!-- ✅ 桌機用：卡片2 + 卡片3 併排 -->
+  <div class="result-split">
+    <div>
+      <div id="resultCards" class="result-cards"></div>
+    </div>
+
+    <div>
       
 <!-- ✅ 卡片3：一階篩選順序與門檻自填（差距計算） -->
 <div class="sieve-self-card">
@@ -152,9 +153,11 @@
               </td>
             </tr>
           </tbody>
-        </table>
-      </div>
-    </section>
+                </table>
+      </div>          <!-- 關閉 result-split 的右欄 div -->
+    </div>            <!-- ✅ 關閉 .result-split（你原本缺這個） -->
+  </div>              <!-- ✅ 關閉 .result-card / #pdfArea -->
+</section>
 
     <!-- 下方：各年度篩選一覽表（在桌機上會跑到右邊） -->
     <section class="bottom-panel">
@@ -177,7 +180,7 @@
   <div class="scroll-guide" aria-hidden="true">
     ⇦ 左右拖動可查看完整科系表格 ⇨
   </div>
-  <iframe id="sieveFrame" ...></iframe>
+ <iframe id="sieveFrame" title="大學申請一階篩選一覽表預覽區"></iframe>
 </div>
 
         <!-- 備用按鈕：另開新分頁 -->
@@ -197,6 +200,7 @@
 <script src="exportPdf.js"></script>
  </body>
 </html>
+
 
 
 
