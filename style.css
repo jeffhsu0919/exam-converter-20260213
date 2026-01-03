@@ -389,5 +389,80 @@ iframe {
     white-space: nowrap;
   }
 }
+/* =========================
+   年度 1~3 同列
+========================= */
+.target-years-inline{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+}
+.target-years-inline .ty-group{
+  display:flex;
+  align-items:center;
+  gap:6px;
+}
+.target-years-inline select{
+  min-width:120px;
+}
+
+/* =========================
+   學校 + 科系 同列
+========================= */
+.school-dept-inline{
+  display:flex;
+  gap:12px;
+  flex-wrap:wrap;
+}
+.school-dept-inline .sd-group{
+  display:flex;
+  align-items:center;
+  gap:6px;
+}
+.sd-school, .sd-dept{
+  flex:1 1 360px;
+}
+.micro-hint{
+  font-size:0.85rem;
+  color:#64748b;
+}
+
+/* =========================
+   隱藏舊表格（黑色數字 5）
+========================= */
+.result-table{
+  display:none;
+}
+
+/* =========================
+   右側 iframe 區加大 + 卷動提示
+========================= */
+.frame-wrapper{
+  position:relative;
+  height:78vh;
+  min-height:620px;
+}
+.scroll-guide{
+  position:absolute;
+  top:8px;
+  left:8px;
+  z-index:2;
+  pointer-events:none;
+  padding:6px 10px;
+  border-radius:999px;
+  background:rgba(0,0,0,0.1);
+  font-size:0.9rem;
+}
+
+/* =========================
+   結果區 header
+========================= */
+.result-header{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  gap:10px;
+}
+
 
 
