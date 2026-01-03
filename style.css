@@ -463,6 +463,23 @@ iframe {
   align-items:center;
   gap:10px;
 }
+.pdf-meta-header{
+  padding: 10px 12px;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background: #fff;
+}
+.pdf-meta-title{
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+.pdf-meta-sub{
+  font-size: 0.95rem;
+  color: #334155;
+}
+
 
 
 
