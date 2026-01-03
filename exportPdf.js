@@ -2,7 +2,9 @@
   function getCollegeDeptText() {
     const collegeSel = document.getElementById("collegeSelect");
     const deptSel = document.getElementById("deptSelect");
-    const deptInput = document.getElementById("deptNameInput");
+    const deptInput =
+        document.getElementById("deptInput") ||
+        document.getElementById("deptNameInput");
 
     const collegeText =
       (collegeSel && collegeSel.selectedOptions && collegeSel.selectedOptions[0])
