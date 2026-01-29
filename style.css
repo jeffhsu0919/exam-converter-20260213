@@ -38,6 +38,64 @@ body {
 
 .input-card {
   background: #fff9d9; /* 淡黃 */
+  position: relative;  /* ✅ 讓右上角 corner-meta 以此卡片為定位基準 */
+}
+
+/* =========================
+   右上角：版本號 + Email（低調）
+========================= */
+.corner-meta{
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  text-align: right;
+  font-size: 0.78rem;
+  line-height: 1.25;
+  color: rgba(15, 23, 42, 0.45); /* 淡灰（不搶主視覺） */
+  user-select: text;            /* ✅ 讓信箱可選取複製 */
+}
+
+.corner-meta__ver{
+  font-weight: 600;
+  letter-spacing: 0.2px;
+}
+
+.corner-meta__email{
+  margin-top: 2px;
+  white-space: nowrap;
+}
+
+.corner-meta__mailto{
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted rgba(15, 23, 42, 0.25);
+}
+
+.corner-meta__mailto:hover{
+  color: rgba(15, 23, 42, 0.75);
+  border-bottom-color: rgba(15, 23, 42, 0.55);
+}
+
+.corner-meta__plain{
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+}
+
+.corner-meta__hint{
+  margin-top: 2px;
+  font-size: 0.72rem;
+  color: rgba(15, 23, 42, 0.35);
+}
+
+/* 手機時避免太擠：稍微往下移、縮字 */
+@media (max-width: 520px){
+  .corner-meta{
+    top: 8px;
+    right: 10px;
+    font-size: 0.72rem;
+  }
+  .corner-meta__hint{
+    display: none; /* ✅ 手機先隱藏提示句，避免擠爆 */
+  }
 }
 
 .result-cards{
@@ -502,6 +560,7 @@ iframe {
 .threshold-input {
   -moz-appearance: textfield; /* Firefox */
 }
+
 
 
 
