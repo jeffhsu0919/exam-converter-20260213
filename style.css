@@ -263,6 +263,18 @@ h2 {
   gap:6px;
 }
 
+/* ✅ 分數輸入框：避免在 flex 下被壓縮到看不到 */
+.form-row.score-row label{
+  white-space: nowrap;           /* label 不換行，避免擠壓 */
+}
+
+.form-row.score-row input[type="number"]{
+  flex: 0 0 auto;                /* 不要被壓縮 */
+  width: 64px;                   /* 你想要的輸入框寬度（可調） */
+  min-width: 64px;               /* 關鍵：最小寬度 */
+  text-align: center;            /* 數字置中好看 */
+}
+
 /* badge：佔滿一整行（所以不吃水平空間） */
 .form-row.score-row .bm-badge{
   width:100%;
@@ -587,6 +599,7 @@ iframe {
 .threshold-input {
   -moz-appearance: textfield; /* Firefox */
 }
+
 
 
 
