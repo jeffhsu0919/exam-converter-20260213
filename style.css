@@ -255,6 +255,33 @@ h2 {
   flex-wrap: wrap;
 }
 
+/* 分數列：同一列內 badge 自動換到下一行 */
+.form-row.score-row{
+  display:flex;
+  align-items:center;
+  flex-wrap:wrap;  /* 允許換行 */
+  gap:6px;
+}
+
+/* badge：佔滿一整行（所以不吃水平空間） */
+.form-row.score-row .bm-badge{
+  width:100%;
+  display:block;
+  font-size:12px;
+  line-height:1.2;
+  opacity:0.85;
+  padding-left: 0; /* 若想對齊 input 再微調 */
+}
+
+/* 可選：用膠囊外觀 */
+.form-row.score-row .bm-badge:not(:empty){
+  display:inline-block;
+  width:auto;
+  background: rgba(0,0,0,0.06);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
 label {
   min-width: 7rem;
 }
@@ -560,6 +587,7 @@ iframe {
 .threshold-input {
   -moz-appearance: textfield; /* Firefox */
 }
+
 
 
 
