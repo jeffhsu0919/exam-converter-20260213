@@ -9,3 +9,4 @@ Baseline snapshot created on 2026-02-13.
 Purpose:
 Minor feature refinements and experimental improvements
 without affecting the production version.
+成功新增各科級分的標的顯示
