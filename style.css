@@ -260,7 +260,7 @@ h2 {
   display:inline-flex;       /* 讓每一科成為獨立小區塊 */
   flex-direction: column;    /* 直向排列：input 上、badge 下 */
   align-items: flex-start;   /* 左對齊 */
-  margin-right: 16px;        /* 與下一科保持距離 */
+  margin-right: 6px;        /* 與下一科保持距離 */
 }
 
 /* ✅ 分數輸入框：避免在 flex 下被壓縮到看不到 */
@@ -598,6 +598,7 @@ iframe {
 .threshold-input {
   -moz-appearance: textfield; /* Firefox */
 }
+
 
 
 
