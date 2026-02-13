@@ -269,8 +269,8 @@ h2 {
 }
 
 .form-row.score-row input[type="number"]{
-  width: 64px;                   /* 你想要的輸入框寬度（可調） */
-  min-width: 64px;               /* 關鍵：最小寬度 */
+  width: 75px;                   /* 你想要的輸入框寬度（可調） */
+  min-width: 75px;               /* 關鍵：最小寬度 */
   text-align: left;              /* 改為靠左 */
 }
 
@@ -598,6 +598,7 @@ iframe {
 .threshold-input {
   -moz-appearance: textfield; /* Firefox */
 }
+
 
 
 
