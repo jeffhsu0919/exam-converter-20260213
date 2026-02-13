@@ -257,10 +257,10 @@ h2 {
 
 /* 分數列：同一列內 badge 自動換到下一行 */
 .form-row.score-row{
-  display:flex;
-  align-items:center;
-  flex-wrap:wrap;  /* 允許換行 */
-  gap:6px;
+  display:inline-flex;       /* 讓每一科成為獨立小區塊 */
+  flex-direction: column;    /* 直向排列：input 上、badge 下 */
+  align-items: flex-start;   /* 左對齊 */
+  margin-right: 16px;        /* 與下一科保持距離 */
 }
 
 /* ✅ 分數輸入框：避免在 flex 下被壓縮到看不到 */
@@ -272,7 +272,7 @@ h2 {
   flex: 0 0 auto;                /* 不要被壓縮 */
   width: 64px;                   /* 你想要的輸入框寬度（可調） */
   min-width: 64px;               /* 關鍵：最小寬度 */
-  text-align: center;            /* 數字置中好看 */
+  text-align: left;              /* 改為靠左 */
 }
 
 /* badge：佔滿一整行（所以不吃水平空間） */
@@ -599,6 +599,7 @@ iframe {
 .threshold-input {
   -moz-appearance: textfield; /* Firefox */
 }
+
 
 
 
